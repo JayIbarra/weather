@@ -1,2 +1,41 @@
 /* background */
 
+main {
+    display: block
+}
+
+body {
+  padding: 1em;
+}
+
+.container-fluid {
+    border: 3px transparent;
+    padding: .5em;
+  }
+
+  .weather-box {
+    border: 2px transparent;
+    padding: .5em;
+  }
+
+/* button */
+
+.btn {
+    text-align: center;
+    display: inline-block;
+    border-radius: 1em;
+    border: 1px solid transparent;
+    background-color: rgb(53,80, 163);
+    color: white;
+}
+
+.btn.btn-sm {
+    font-size: 1rem;
+    padding: 1rem;
+}
+
+.btn.btn-pimary {
+    background-color: blue;
+    color: white;
+}
+
