@@ -3,7 +3,7 @@
 
 var searchHistory = [];
 var weatherApiRootUrl = 'https://api.openweathermap.org';
-var weatherApiKey = 'd91f911bcf2c0f925fb6535547a5ddc9';
+var weatherApiKey = '87db051a26ebe593cc006f7771e981d9';
 
 // search elements //
 var searchForm = document.querySelector('#search-form');
